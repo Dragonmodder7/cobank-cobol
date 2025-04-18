@@ -2,8 +2,6 @@
 
 **COBANK** é um sistema bancário inspirado no Nubank, escrito em linguagem COBOL. O sistema roda no terminal e permite criar contas, consultar saldo, fazer depósitos, saques e listar todas as contas cadastradas.
 
-Este projeto foi criado para fins educacionais e demonstração de como sistemas bancários simples podem ser implementados em COBOL.
-
 ---
 
 ## Funcionalidades
