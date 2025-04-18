@@ -1,1 +1,0 @@
-# cobank-cobol
